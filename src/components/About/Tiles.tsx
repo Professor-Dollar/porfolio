@@ -4,7 +4,7 @@ const Tiles = () => {
     {
       icon: <i className="ri-award-line text-xl text-slate-800 "></i>,
       title: "Experience",
-      desc: "8+ years worked",
+      desc: "2+ years",
     },
     {
       icon: <i className="ri-briefcase-line text-xl text-slate-800 "></i>,
@@ -13,8 +13,8 @@ const Tiles = () => {
     },
     {
       icon: <i className="ri-customer-service-line text-xl text-slate-800 "></i>,
-      title: "Education",
-      desc: "Computer Science",
+      title: "Courses",
+      desc: "GIAIC",
     },
   ];
 

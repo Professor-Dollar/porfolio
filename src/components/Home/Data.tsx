@@ -56,7 +56,7 @@ const Data = () => {
   }}
 >
   <path
-    className="animate-wheel" // Correct Tailwind class applied here
+    className="animate-wheel"
     d="M123.359,79.775l0,72.843"
     style={{
       fill: "none",
@@ -77,7 +77,7 @@ const Data = () => {
 
 
             <a
-              href="#about"
+              href="#skills"
               className="scrollDown-button tracking-tight font-semibold flex items-center gap-1"
             >
               Scroll Down
@@ -86,10 +86,11 @@ const Data = () => {
           </div>
         </div>
       </div>
-      <div className="pfpSec flex lg:-mt-12 lg:-mr-12 lg:w-11/12 md:flex-col items-center md:mr-78 sm:pt-3 pt-3 sm:pb-8 pb-8 md:mb-20 w-full">
-        <div className="pfpWrapper mx-auto bg-blue-500 w-9/12 animate-profile overflow-hidden">
+      <div className="picSec lg:block lg:ml-24 md:flex sm:flex flex  lg:max-h-[24vw] 
+      ">
+        <div className="pfpWrapper md:w-7/12 md:mr-[29.5vw] sm:w-[26vw] w-[35vw] sm:mx-4 mx-4 sm:mb-4 mb-4 animate-profile overflow-hidden">
           <img
-            src="https://images.pexels.com/photos/2794868/pexels-photo-2794868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="/src/assets/ownthecode.png"
             alt="Profile Pic"
           />
         </div>

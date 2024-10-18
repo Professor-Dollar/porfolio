@@ -11,3 +11,8 @@
 {
     font-family: "Mrs Saint Delafield";
 }
+
+html {
+    scrollbar-color:  white;
+    scrollbar-width: 12px;
+}
