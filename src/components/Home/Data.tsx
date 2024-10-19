@@ -90,7 +90,7 @@ const Data = () => {
       ">
         <div className="pfpWrapper md:w-7/12 md:mr-[29.5vw] sm:w-[26vw] w-[35vw] sm:mx-4 mx-4 sm:mb-4 mb-4 animate-profile overflow-hidden">
           <img
-            src="/src/assets/ownthecode.png"
+            src="https://images.pexels.com/photos/29002862/pexels-photo-29002862.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="Profile Pic"
           />
         </div>
