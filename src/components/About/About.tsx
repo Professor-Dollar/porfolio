@@ -5,7 +5,7 @@ const About = () => {
     <div id="about" className="about lg:py-12  flex flex-col gap-4 justify-center items-center w-full h-full overflow-hidden md:mt-24 sm:mt-24 mt-24">
         <div className="lg:w-[24vw] md:w-[45vw] sm:w-[48vw] w-[80vw]">
             <img
-            src="https://images.pexels.com/photos/2794868/pexels-photo-2794868.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://images.pexels.com/photos/29002886/pexels-photo-29002886.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt="picture was supposed to be here."
             className="rounded-3xl"
             />
